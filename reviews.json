@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Ross",
+        "subject": "Introduction to Algorithms",
+        "stars": 5,
+        "review": "Dr. Ross is an amazing professor! Her lectures are clear, and she makes complex topics easy to understand."
+      },
+      {
+        "professor": "Dr. John Smith",
+        "subject": "Data Structures",
+        "stars": 4,
+        "review": "Dr. Smith is very knowledgeable, but sometimes the pace of the class is a bit fast."
+      },
+      {
+        "professor": "Prof. Linda Nguyen",
+        "subject": "Operating Systems",
+        "stars": 3,
+        "review": "The course content is solid, but Prof. Nguyen could be more engaging in her delivery."
+      },
+      {
+        "professor": "Dr. Mark Johnson",
+        "subject": "Database Systems",
+        "stars": 5,
+        "review": "Dr. Johnson's classes are both informative and fun. He provides real-world examples that make the material relevant."
+      },
+      {
+        "professor": "Prof. Sarah Lee",
+        "subject": "Computer Networks",
+        "stars": 4,
+        "review": "Prof. Lee knows her stuff, but sometimes the assignments can be a bit too challenging."
+      },
+      {
+        "professor": "Dr. Alan Brown",
+        "subject": "Artificial Intelligence",
+        "stars": 5,
+        "review": "Dr. Brown is an expert in AI and his passion for the subject is contagious. Highly recommend his class!"
+      },
+      {
+        "professor": "Prof. Rebecca Green",
+        "subject": "Software Engineering",
+        "stars": 4,
+        "review": "Prof. Green is thorough in her explanations, but the workload can be heavy."
+      },
+      {
+        "professor": "Dr. David White",
+        "subject": "Machine Learning",
+        "stars": 3,
+        "review": "The content is interesting, but Dr. White's lectures can be a bit dry at times."
+      },
+      {
+        "professor": "Prof. Nancy Adams",
+        "subject": "Discrete Mathematics",
+        "stars": 4,
+        "review": "Prof. Adams is great at breaking down complex topics, but the exams are tough."
+      },
+      {
+        "professor": "Dr. Robert Wilson",
+        "subject": "Computer Architecture",
+        "stars": 5,
+        "review": "Dr. Wilson is a fantastic professor. His classes are well-organized and the material is presented clearly."
+      },
+      {
+        "professor": "Prof. Julia Thompson",
+        "subject": "Human-Computer Interaction",
+        "stars": 3,
+        "review": "Prof. Thompson is knowledgeable, but the class could benefit from more practical examples."
+      },
+      {
+        "professor": "Dr. Brian King",
+        "subject": "Data Mining",
+        "stars": 4,
+        "review": "Dr. King provides valuable insights into data mining, but the coursework can be overwhelming."
+      },
+      {
+        "professor": "Prof. Laura Martinez",
+        "subject": "Web Development",
+        "stars": 5,
+        "review": "Prof. Martinez is an excellent teacher. She keeps the class engaged and makes learning fun."
+      },
+      {
+        "professor": "Dr. Kevin Parker",
+        "subject": "Cryptography",
+        "stars": 3,
+        "review": "The course is challenging, and Dr. Parker's explanations can be hard to follow at times."
+      },
+      {
+        "professor": "Prof. Olivia Harris",
+        "subject": "Cybersecurity",
+        "stars": 5,
+        "review": "Prof. Harris is a cybersecurity expert and her classes are very informative. Highly recommend!"
+      },
+      {
+        "professor": "Dr. Richard Young",
+        "subject": "Mobile Application Development",
+        "stars": 4,
+        "review": "Dr. Young is a great professor, but the projects can be time-consuming."
+      },
+      {
+        "professor": "Prof. Megan Clark",
+        "subject": "Natural Language Processing",
+        "stars": 4,
+        "review": "Prof. Clark is passionate about NLP, but the class could use more hands-on practice."
+      },
+      {
+        "professor": "Dr. Charles Walker",
+        "subject": "Cloud Computing",
+        "stars": 5,
+        "review": "Dr. Walker is an expert in cloud computing and provides valuable insights. His class is a must-take."
+      },
+      {
+        "professor": "Prof. Emma Scott",
+        "subject": "Blockchain Technology",
+        "stars": 3,
+        "review": "The content is fascinating, but Prof. Scott's lectures can be a bit monotonous."
+      },
+      {
+        "professor": "Dr. Steven Miller",
+        "subject": "Quantum Computing",
+        "stars": 4,
+        "review": "Dr. Miller is very knowledgeable, but the concepts can be difficult to grasp without a strong background in physics."
+      }
+    ]
+  }
+  
